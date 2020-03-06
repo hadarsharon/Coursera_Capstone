@@ -1,5 +1,0 @@
-The Data: 
-I am going to need data based on the city of Tel-Aviv, Israel, as well as its neighbourhoods.
-Specifically, I need to be able to map out all Asian restaurants in Tel-Aviv, and be able to obtain insights about the residents of each neighbourhood - their income, their age, and lifestyle in general (as possible).
-I am planning on using the Foursquare API to handle all the Geolocation data related to restaurants, and perhaps bound & classify each neighbourhood of the city using it (+ Visualization).
-I am also looking to obtain a dataset with data about the residents of Tel-Aviv, whether from a local API or I will scrape entire datasets from the Internet if needed.
